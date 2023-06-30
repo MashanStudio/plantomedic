@@ -1,0 +1,2 @@
+# plantomedic
+paddy deficiency identifier
